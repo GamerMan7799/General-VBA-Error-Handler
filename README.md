@@ -1,3 +1,8 @@
+# ARCHIVED!
+
+Due to me not actively working on this I have decided to archive it. 
+
+
 # General-VBA-Error-Handler
 A really simple error handler that gives a general message to the end user about how to fix an error.
 
